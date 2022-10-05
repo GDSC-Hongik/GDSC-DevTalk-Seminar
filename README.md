@@ -1,5 +1,7 @@
 # GDSC DevTalk Seminar
 
+![banner](https://user-images.githubusercontent.com/91878695/193995189-96b2e215-43b3-462b-80e3-f0567f7e708d.png)
+
 ## Introduction
 
 > ### **Share Your Experience & Knowledge!**  
