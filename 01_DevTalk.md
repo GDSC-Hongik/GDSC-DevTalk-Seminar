@@ -12,7 +12,7 @@
 <table>
     <tr align="center">
         <td><B>Order<B></td>
-        <td width = "160"<>Speaker<B></td>
+        <td width = "160"<B>Speaker<B></td>
         <td width = "250"><B>Agenda<B></td>
         <td><B>Description<B></td>
     </tr>
