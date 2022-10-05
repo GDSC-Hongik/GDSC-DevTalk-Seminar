@@ -21,7 +21,7 @@
 
 ## Past Sessions
 
-- 제 1회 DevTalk Seminar
+- [제 1회 DevTalk Seminar](01_DevTalk.md)
 - 제 2회 DevTalk Seminar
 
 ## Related Links
