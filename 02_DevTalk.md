@@ -42,7 +42,7 @@
     </tr>
     <tr>
         <td>5</td>
-        <td>이준선(<a href="https://github.com/uwoobeat"><I>uwoobeat</I></a>)</td>
+        <td>이준선(<a href="https://github.com/nx006"><I>nx006</I></a>)</td>
         <td>이더리움과 튜링 완전</td>
         <td>비트코인과는 대비되는, 프로그래밍 가능한 특성을 가진 이더리움과, 튜링 완전성의 상관 관계를 알아보자.</td>
     </tr>
