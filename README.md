@@ -36,3 +36,7 @@
 [gdsc.hongik@gmail.com](mailto:gdsc.hongik@gmail.com)
 
 [카카오톡 문의하기](https://pf.kakao.com/_cfdZxj)
+
+## Sponsors
+
+<img src = "https://user-images.githubusercontent.com/91878695/199454815-c4ad5cf1-d940-4087-922c-845a16f695fe.png" width="30%" height="30%">
