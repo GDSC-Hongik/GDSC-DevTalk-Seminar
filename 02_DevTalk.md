@@ -1,6 +1,6 @@
 # 제 2회 DevTalk Seminar
 
-[GDSC Hongik - 2nd DevTalk Session]()
+[GDSC Hongik - 2nd DevTalk Session](https://youtu.be/MwxFUSUjvtU)
 
 ## Time / Place
 
