@@ -27,6 +27,7 @@
 - [제 2회 DevTalk Seminar](02_DevTalk.md)
 - [제 3회 DevTalk Seminar](03_DevTalk.md)
 - [제 4회 DevTalk Seminar](04_DevTalk.md)
+- [제 5회 DevTalk Seminar](05_DevTalk.md)
 
 ## Related Links
 
