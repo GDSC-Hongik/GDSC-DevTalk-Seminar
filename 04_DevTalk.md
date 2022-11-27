@@ -30,7 +30,7 @@
     </tr>
     <tr>
         <td>3</td>
-        <td>최원준(<a href="https://github.com/"><I></I></a>)</td>
+        <td>최원준(<a href="https://github.com/jo0n-lab"><I>jo0n-lab</I></a>)</td>
         <td><a href="https://youtu.be/FiiYupZwu1M">인공지능? 그거 먹는 건가요?</td>
         <td>인공지능 기술을 활용한 서비스를 살펴보고 text-to-image 를 실습한다.</td>
     </tr>
