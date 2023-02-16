@@ -28,6 +28,8 @@
 - [제 3회 DevTalk Seminar](03_DevTalk.md)
 - [제 4회 DevTalk Seminar](04_DevTalk.md)
 - [제 5회 DevTalk Seminar](05_DevTalk.md)
+- [제 6회 DevTalk Seminar](06_DevTalk.md)
+- [제 7회 DevTalk Seminar](07_DevTalk.md)
 
 ## Related Links
 
