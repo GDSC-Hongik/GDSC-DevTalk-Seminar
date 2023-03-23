@@ -33,7 +33,7 @@
 
 ## Related Links
 
-[Youtube](https://www.youtube.com/channel/UCLsTr9lF9sFJes7I2RqrMwQ)
+[Youtube](https://youtube.com/@gdsc.hongik)
 
 ## Contact
 
