@@ -26,7 +26,7 @@
         <td>C언어와 포인터를 공부하며 누구나 접해보았을 개념인 Call by Reference. 그 진실을 함께 파헤쳐보며 Call by Reference에 대한 오해와 진실을 알아보자.</td>
     </tr>
     <tr>
-        <td><이수진</td>
+        <td>이수진</td>
         <td><a href="https://youtu.be/SWeAIqY7Nyk">도커란 무엇인가?</td>
         <td>도커, 컨테이너 그리고 가상머신에 대해 알아보고, 이를 이용한 배포까지 알아봅시다</td>
     </tr>
