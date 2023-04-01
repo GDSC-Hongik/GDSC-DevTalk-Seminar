@@ -23,7 +23,7 @@
     <tr>
         <td>이찬진</td>
         <td><a href="">Oauth & Open ID Connect</td>
-        <td>Oauth의 인가 OIDC 의 인증의 차이점과 스프링 기준 구현방법을 알아본다</td>
+        <td>Oauth의 인가, OIDC의 인증의 차이점과 스프링 기준 구현 방법을 알아본다.</td>
     </tr>
     <tr>
         <td>김종필</td>
