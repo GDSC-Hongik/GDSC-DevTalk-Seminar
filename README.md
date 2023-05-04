@@ -30,6 +30,9 @@
 - [제 5회 DevTalk Seminar](05_DevTalk.md)
 - [제 6회 DevTalk Seminar](06_DevTalk.md)
 - [제 7회 DevTalk Seminar](07_DevTalk.md)
+- [제 8회 DevTalk Seminar](08_DevTalk.md)
+- [제 9회 DevTalk Seminar](09_DevTalk.md)
+- [제 10회 DevTalk Seminar](10_DevTalk.md)
 
 ## Related Links
 
